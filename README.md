@@ -1,5 +1,9 @@
 # Sokoban Solver
 
+[![make.fun · sokoban-solver-01-run-20261121](https://make.fun/badge/sokoban-solver-01-run-20261121.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![rank](https://make.fun/badge/sokoban-solver-01-run-20261121/Masriah091/sokoban-solver/rank.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+[![reward](https://make.fun/badge/sokoban-solver-01-run-20261121/Masriah091/sokoban-solver/reward.svg)](https://make.fun/bounty/sokoban-solver-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=sokoban-solver-01-run-20261121)
+
 A deterministic push-optimal Sokoban solver. It searches in push space
 with IDA\* (iterative deepening on pushes + heuristic), guided by static
 push-distances to the nearest goal precomputed with reverse pull-BFS;

@@ -17,6 +17,3 @@ push-optimally on its own and the solutions are concatenated with
 hallway walks, so the push counts add up to the level optimum. No clock
 reads and no randomness: two runs produce byte-identical output.
 
-[![badge](https://make.fun/api/badge/Masriah091/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
-[![badge](https://make.fun/api/badge/Masriah091/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
-[![badge](https://make.fun/api/badge/Masriah091/sokoban-solver)](https://make.fun/bounty/sokoban-solver-01-run-20261121)
